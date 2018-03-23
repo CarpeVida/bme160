@@ -7,7 +7,7 @@ from scipy.stats import gaussian_kde
 
 
 for fileNum in range(1, len(sys.argv)):
-    print(fileNum)
+    # print(fileNum)
 
     plt.style.use('BME163.mplstyle')
 
